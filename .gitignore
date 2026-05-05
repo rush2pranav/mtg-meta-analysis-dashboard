@@ -150,6 +150,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+data/scryfall_oracle_cards.json
 
 # Pyre type checker
 .pyre/
